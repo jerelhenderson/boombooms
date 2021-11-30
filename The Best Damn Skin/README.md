@@ -7,6 +7,9 @@ Installation is simple - [right click here](https://github.com/jerelhenderson/bo
 
 ## View
 [<img alt="MusicBee Best Damn Skin Main Panel" width="85%" src="https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_main.png?raw=true" />](https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_main.png?raw=true)
+
 [<img alt="MusicBee Best Damn Skin Jazz Panel" width="85%" src="https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_jazz.png?raw=true" />](https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_jazz.png?raw=true)
+
 [<img alt="MusicBee Best Damn Skin Classical Panel" width="85%" src="https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_classical.png?raw=true" />](https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_classical.png?raw=true)
+
 [<img alt="MusicBee Best Damn Skin アニメーション Panel" width="85%" src="https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_アニメ.png?raw=true" />](https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_アニメ.png?raw=true)
