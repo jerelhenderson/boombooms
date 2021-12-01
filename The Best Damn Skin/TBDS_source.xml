@@ -670,7 +670,7 @@
 		<element id="MenuButtonSharp">true</element>
 		<element id="PlayerAutoColor">false</element>
 		<element id="PlayerAutoColorUsingStandardSkinRules">false</element>
-		<element id="PlayerInfoCentered">true</element>
+		<element id="PlayerInfoCentered">false</element>
 		<element id="PlayerMultilineSupported">false</element>
 		<!-- <element id="PlayerMultilineYAdjustment">-4</element> -->
 		<element id="PlayerProgressFractions">false</element>
