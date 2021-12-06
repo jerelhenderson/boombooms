@@ -18,6 +18,6 @@ Likewise, the process of drilling down the organization of classical music to th
 than than by the prescribed medium order - makes MusicBee the premier music manager.
 [<img alt="MusicBee Best Damn Skin Classical Panel" width="85%" src="https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_classical.png?raw=true" />](https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_classical.png?raw=true)
 
-Splitting out music that doesn't use the Latin alphabet for its language increases efficiency when scrolling through MusicBee's list
+Splitting out music that don't primarily use Latin alphabet characters increases efficiency when scrolling through MusicBee's list
 of your favorite artists and albums.
 [<img alt="MusicBee Best Damn Skin アニメーション Panel" width="85%" src="https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_アニメ.png?raw=true" />](https://github.com/jerelhenderson/boombooms/blob/master/The%20Best%20Damn%20Skin/TBDS_preview_アニメ.png?raw=true)
