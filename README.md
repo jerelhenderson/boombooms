@@ -11,4 +11,4 @@ You won't get any better than this minimal, dark-themed MusicBee skin! It's the 
 
 ## [Minimally Cerise]()
 Kick back and watch high-quality images of the currently playing artist fade in and out of this minimal looking, but maximally enticing Theater Mode!
-<img alt="MusicBee Minimally Cerise Tracks Panel" height="85%" src="https://raw.githubusercontent.com/jerelhenderson/boombooms/master/Minimally%20Cerise/MC_player.png" />
+<img alt="MusicBee Minimally Cerise Tracks Panel" width="50%" src="https://raw.githubusercontent.com/jerelhenderson/boombooms/master/Minimally%20Cerise/MC_player.png" />
