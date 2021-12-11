@@ -10,5 +10,5 @@ You won't get any better than this dark-themed MusicBee skin! It's the best damn
 <img alt="MusicBee Best Damn Player Bar" src="https://raw.githubusercontent.com/jerelhenderson/boombooms/master/The%20Best%20Damn%20Skin/TBDS_player.png" />
 
 ## [Minimally Cerise]()
-View high-quality images of the currently playing artist fade in and out this minimallooking, but maximally enticing Theater Mode!\
+View HQ images of the currently playing artist fade in and out this minimal looking, maximally enticing Theater Mode!\
 <img alt="MusicBee Minimally Cerise Tracks Panel" width="20%" src="https://raw.githubusercontent.com/jerelhenderson/boombooms/master/Minimally%20Cerise/MC_player.png" />
