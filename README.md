@@ -11,4 +11,6 @@ Just in time for the holiday season, enjoy your favorite Christmas songs with a 
 
 ## [Minimally Cerise](https://github.com/jerelhenderson/boombooms/tree/master/Minimally%20Cerise)
 Watch HQ images of the currently playing artist fade in 'n out this minimal looking, maximally enticing Theater Mode!
-<img alt="MusicBee Minimally Cerise Tracks Panel" align="center" width="20%" src="https://raw.githubusercontent.com/jerelhenderson/boombooms/master/Minimally%20Cerise/MC_player.png" />
+<p align="center">
+<img alt="MusicBee Minimally Cerise Tracks Panel" width="20%" src="https://raw.githubusercontent.com/jerelhenderson/boombooms/master/Minimally%20Cerise/MC_player.png" />
+</p>
